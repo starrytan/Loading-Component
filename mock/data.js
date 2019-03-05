@@ -2,7 +2,7 @@
 const Mock=require('mockjs');
 
 let db=Mock.mock({
-    'data|10':[{
+    'data|50':[{
         id:'@id',
         name:'@name',
         'age|18-32':1
