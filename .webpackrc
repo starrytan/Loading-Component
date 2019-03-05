@@ -1,0 +1,10 @@
+{
+    "hash":true,
+    "html": { "template": "./src/index.ejs" },
+    "env": {
+    "development": {
+        "extraBabelPlugins": ["dva-hmr"]
+    }
+  }
+
+}

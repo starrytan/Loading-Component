@@ -1,0 +1,20 @@
+.loading{
+    text-align: center
+}
+.nodata{
+    height: 50px;
+    font-size: 20px;
+    line-height: 50px;
+    animation: sport .8s;
+    animation-fill-mode : forwards;
+    animation-delay: .5s;
+    overflow: hidden; 
+}
+@keyframes sport{
+    from{
+        height: 50px;
+    }
+    to{
+        height: 0px;
+    }
+}
