@@ -3,7 +3,7 @@
 
 效果图：
 
-![](C:\Users\Starry\Desktop\GIF.gif)
+![image](https://github.com/ZhengYaWei1992/ZWProgressView/blob/master/Untitled3.gif)
 
 
 
